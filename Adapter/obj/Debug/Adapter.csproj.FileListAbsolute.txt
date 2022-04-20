@@ -1,0 +1,14 @@
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Adapter\bin\Debug\Adapter.exe.config
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Adapter\bin\Debug\Adapter.exe
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Adapter\bin\Debug\Adapter.pdb
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Adapter\obj\Debug\Adapter.exe
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Adapter\obj\Debug\Adapter.pdb
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Adapter\obj\Debug\Adapter.pdb
