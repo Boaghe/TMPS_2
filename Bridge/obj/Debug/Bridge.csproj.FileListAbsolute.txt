@@ -1,0 +1,14 @@
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Bridge\bin\Debug\Bridge.exe.config
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Bridge\bin\Debug\Bridge.exe
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Bridge\bin\Debug\Bridge.pdb
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Bridge\obj\Debug\Bridge.exe
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Bridge\obj\Debug\Bridge.pdb
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Bridge\bin\Debug\Bridge.exe
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Bridge\bin\Debug\Bridge.pdb
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Bridge\obj\Debug\Bridge.exe
+C:\Users\win\Desktop\Bridge_Composite_Adapter\Bridge\obj\Debug\Bridge.pdb
